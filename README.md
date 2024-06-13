@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# StreamHub LiveStream App
+
+This is a Next.js project bootstrapped with `create-next-app`.
 
 ## Getting Started
 
@@ -12,7 +14,6 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -28,6 +29,10 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+# Package.json graph(dependencies):
+
+<img width="721" alt="Screenshot 2024-06-13 at 1 55 06 PM" src="https://github.com/RohanMatre/StreamHub-LiveStreamApp/assets/100989394/6a023d60-edc7-4965-b54b-5e68a5732870">
 
 ## Deploy on Vercel
 
